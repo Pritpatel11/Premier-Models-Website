@@ -23,7 +23,7 @@ This project is a responsive web design for a **Premier Models** website, showca
 ## 🎯 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Pritpatel11/Premier-Models-Website.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -50,6 +50,3 @@ This project is a responsive web design for a **Premier Models** website, showca
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
